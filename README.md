@@ -8,13 +8,13 @@ Requirement: LabVIEW 2020.
 |- Events.number
 |- number
 |--------------------
-|+BK                |   
-|+minusOne          |
-|+PlusOne           |
-|+Concatenate       |
-|+GetNumber
-|+OK
-|+Update_Event_number
+| +BK                |   
+| +minusOne          |
+| +PlusOne           |
+| +Concatenate       |
+| +GetNumber
+| +OK
+| +Update_Event_number
 |---------------------
           ^
           |
