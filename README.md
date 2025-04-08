@@ -3,11 +3,12 @@ Requirement: LabVIEW 2020.
 
 
 
-|-- Actor.NumPad2 --
+|  Actor.NumPad2  |
+|---------------- |
 |- Events.Stop
 |- Events.number
 |- number
-|
+|---------------- |
 | +BK                
 | +minusOne          
 | +PlusOne           
@@ -15,7 +16,7 @@ Requirement: LabVIEW 2020.
 | +GetNumber
 | +OK
 | +Update_Event_number
-|---------------------
+|---------------- |
           ^
 |--TouchScreen--
 |
